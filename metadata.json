@@ -1,0 +1,6 @@
+{
+  "name": "TruCheck",
+  "description": "A futuristic AI-powered product scanner that detects counterfeit goods using advanced image analysis, logo detection, and packaging verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
